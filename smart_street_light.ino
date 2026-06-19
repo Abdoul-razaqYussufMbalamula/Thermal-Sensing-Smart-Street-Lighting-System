@@ -1,5 +1,5 @@
 /*
- Project Name: Automated Street Lighting System (Hackathon Reconstruction)
+ Project Name: Thermal-Sensing Smart Street Lighting System (Hackathon Reconstruction)
  System Input: HC-SR501 PIR Sensor (Digital Pin 2)
  System Output: LED Array (Digital Pins 4, 5, 6, 7)
  Description: Uses non-blocking logic to illuminate street lights upon human thermal detection.
