@@ -4,6 +4,8 @@
 ![Physical Prototype](project_prototype.jpeg)
 ![Team Assembly](team_assembly1.jpeg)
 ![Team Assembly](team_assembly2.jpeg)
+![Team Assembly](block_diagram.drawio.png)
+![Team Assembly](architecture_diagram.drawio.png)
 ![Team Assembly](team_assemply3.jpeg)
 ![Team Assembly](team_assembly4.jpeg)
 
